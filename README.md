@@ -1,8 +1,6 @@
 # Onja Javascript Project 1 : Imagine a quote generator
 # Author: Sam Lucas
 
--   create a new README.md with your logic explaining how you solved the problem
-
 This programme generates a list of mash-up quotes - by combining parts of other quotes. 
 In the browser, users specify:
 - the number of quotes they wish to generate
